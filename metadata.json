@@ -1,0 +1,5 @@
+{
+  "name": "EuskalLib - Red de Bibliotecas de Euskadi",
+  "description": "Plataforma unificada para la consulta de catálogos, gestión de préstamos y servicios bibliotecarios del País Vasco.",
+  "requestFramePermissions": ["geolocation"]
+}
